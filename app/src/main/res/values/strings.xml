@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_activity_search_screen">SearchScreen</string>
+    <string name="title_activity_details_info">DetailsInfo</string>
+</resources>
